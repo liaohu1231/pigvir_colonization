@@ -1,0 +1,62 @@
+PPF0-1_NODE_65_length_69000_cov_131.110175	68997	No	NA	82	31	0	High-quality	High-quality	92.06	AAI-based (high-confidence)	0.0	1.0	
+PPF0-1_NODE_133_length_54506_cov_24.044205	53864	No	NA	70	18	3	High-quality	High-quality	91.68	AAI-based (high-confidence)	0.0	1.0	
+PPF0-1_NODE_2171_length_15128_cov_4.797452	15020	No	NA	23	0	0	Low-quality	Genome-fragment	24.2	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-1_NODE_2254_length_14772_cov_7.605898	14770	No	NA	25	9	1	Low-quality	Genome-fragment	23.71	AAI-based (high-confidence)	0.0	1.0	
+PPF0-1_NODE_4963_length_8991_cov_8.230640	8989	No	NA	13	0	1	Low-quality	Genome-fragment	5.26	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-1_NODE_6653_length_7294_cov_9.168670	7240	No	NA	10	2	0	Low-quality	Genome-fragment	15.26	AAI-based (medium-confidence)	0.0	1.0	
+PPF0-1_NODE_9466_length_5682_cov_15.986849	5682	No	NA	7	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.01	no viral genes detected; low-confidence DTR
+PPF0-1_NODE_10795_length_5185_cov_22.206628	5181	No	NA	10	0	0	Low-quality	Genome-fragment	4.67	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+PPF0-1_NODE_11227_length_5039_cov_8.855337	5039	No	NA	6	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-1_NODE_12145_length_4783_cov_5.859772	4777	No	NA	7	1	0	Low-quality	Genome-fragment	2.47	AAI-based (high-confidence)	0.0	1.0	
+PPF0-1_NODE_13549_length_4439_cov_36.314097	4023	Yes	1692	5	1	2	Low-quality	Genome-fragment	1.72	AAI-based (medium-confidence)	57.94	1.0	
+PPF0-1_NODE_14440_length_4243_cov_4.581184	4207	No	NA	5	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.01	no viral genes detected
+PPF0-1_NODE_15692_length_4004_cov_16.914409	3772	No	NA	7	1	0	Low-quality	Genome-fragment	2.94	AAI-based (medium-confidence)	0.0	1.0	
+PPF0-1_NODE_16416_length_3877_cov_48.694139	3377	No	NA	7	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-1_NODE_17833_length_3651_cov_24.568409	3490	No	NA	2	1	0	Low-quality	Genome-fragment	1.87	HMM-based (lower-bound)	0.0	1.0	
+PPF0-1_NODE_19272_length_3469_cov_9.337434	3468	No	NA	4	0	1	Low-quality	Genome-fragment	1.13	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+PPF0-1_NODE_20555_length_3321_cov_9.154930	3317	No	NA	4	0	0	Low-quality	Genome-fragment	2.41	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-1_NODE_22296_length_3143_cov_20.714054	3141	No	NA	7	1	0	Low-quality	Genome-fragment	4.4	AAI-based (medium-confidence)	0.0	1.0	
+PPF0-1_NODE_23270_length_3056_cov_5.521160	3054	No	NA	3	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-1_NODE_33103_length_2417_cov_153.579170	2414	No	NA	4	0	0	Low-quality	Genome-fragment	1.74	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-1_NODE_36446_length_2266_cov_5.185436	2159	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-1_NODE_36871_length_2247_cov_110.468066	2245	No	NA	4	0	0	Low-quality	Genome-fragment	1.62	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-2_NODE_43_length_68749_cov_80.496506	68746	No	NA	82	31	0	High-quality	High-quality	91.73	AAI-based (high-confidence)	0.0	1.0	
+PPF0-2_NODE_626_length_25771_cov_11.085550	25122	No	NA	36	6	3	Low-quality	Genome-fragment	42.73	AAI-based (high-confidence)	0.0	1.0	
+PPF0-2_NODE_1962_length_13067_cov_15.772671	13063	No	NA	20	1	0	Low-quality	Genome-fragment	8.6	AAI-based (high-confidence)	0.0	1.0	
+PPF0-2_NODE_2729_length_10817_cov_9.716317	10816	No	NA	14	0	4	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-2_NODE_6651_length_5743_cov_5.731188	5741	No	NA	8	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-2_NODE_6756_length_5682_cov_10.448374	5682	No	NA	8	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.01	no viral genes detected; low-confidence DTR
+PPF0-2_NODE_9949_length_4358_cov_22.727399	3969	Yes	1692	5	1	2	Low-quality	Genome-fragment	1.72	AAI-based (medium-confidence)	57.37	1.0	
+PPF0-2_NODE_11790_length_3877_cov_34.256934	3377	No	NA	7	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-2_NODE_13477_length_3559_cov_4.860160	3544	No	NA	7	1	0	Low-quality	Genome-fragment	5.67	AAI-based (high-confidence)	0.0	1.0	
+PPF0-2_NODE_14510_length_3399_cov_14.913278	3299	No	NA	5	1	0	Low-quality	Genome-fragment	2.57	AAI-based (medium-confidence)	0.0	1.0	
+PPF0-2_NODE_19226_length_2837_cov_3.929907	2835	No	NA	3	0	1	Low-quality	Genome-fragment	5.31	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+PPF0-2_NODE_26071_length_2338_cov_6.429698	1811	No	NA	2	0	0	Low-quality	Genome-fragment	0.51	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+PPF0-2_NODE_26273_length_2326_cov_115.073976	2324	No	NA	4	0	0	Low-quality	Genome-fragment	1.67	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-2_NODE_27229_length_2276_cov_4.496623	2273	No	NA	4	1	0	Low-quality	Genome-fragment	1.52	AAI-based (medium-confidence)	0.0	1.0	
+PPF0-2_NODE_28321_length_2222_cov_2.981080	2200	No	NA	5	0	0	Low-quality	Genome-fragment	1.18	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-2_NODE_34877_length_1951_cov_24.126582	1902	No	NA	4	0	0	Low-quality	Genome-fragment	1.53	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+PPF0-2_NODE_37137_length_1879_cov_4.145833	1710	No	NA	3	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-2_NODE_49219_length_1587_cov_5.635770	1587	No	NA	3	0	0	Low-quality	Genome-fragment	1.76	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+PPF0-3_NODE_66_length_68796_cov_138.642979	68793	No	NA	81	31	0	High-quality	High-quality	91.79	AAI-based (high-confidence)	0.0	1.0	
+PPF0-3_NODE_456_length_35229_cov_28.101097	35227	No	NA	52	7	3	Medium-quality	Genome-fragment	59.95	AAI-based (high-confidence)	0.0	1.0	
+PPF0-3_NODE_733_length_28144_cov_7.397985	27630	No	NA	38	5	0	Low-quality	Genome-fragment	44.46	AAI-based (high-confidence)	0.0	1.0	
+PPF0-3_NODE_3609_length_10847_cov_4.747961	10686	No	NA	14	5	1	Low-quality	Genome-fragment	6.22	AAI-based (high-confidence)	0.0	1.0	
+PPF0-3_NODE_5347_length_8020_cov_5.708977	7959	No	NA	10	1	0	Low-quality	Genome-fragment	5.14	HMM-based (lower-bound)	0.0	1.0	
+PPF0-3_NODE_8658_length_5682_cov_13.991292	5682	No	NA	7	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.01	no viral genes detected; low-confidence DTR
+PPF0-3_NODE_9047_length_5505_cov_8.777798	5505	No	NA	7	0	0	Low-quality	Genome-fragment	10.07	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+PPF0-3_NODE_12291_length_4459_cov_6.685286	4440	No	NA	8	1	0	Low-quality	Genome-fragment	3.22	AAI-based (medium-confidence)	0.0	1.0	
+PPF0-3_NODE_13492_length_4184_cov_227.519012	4180	No	NA	8	0	0	Low-quality	Genome-fragment	3.15	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-3_NODE_15159_length_3877_cov_49.057561	3377	No	NA	7	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-3_NODE_15502_length_3824_cov_18.564075	3799	No	NA	7	1	0	Low-quality	Genome-fragment	2.96	AAI-based (medium-confidence)	0.0	1.0	
+PPF0-3_NODE_15631_length_3804_cov_37.118965	3801	Yes	1470	5	1	2	Low-quality	Genome-fragment	1.54	AAI-based (medium-confidence)	61.33	1.0	
+PPF0-3_NODE_23774_length_2897_cov_10.847643	2624	No	NA	3	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-3_NODE_23871_length_2890_cov_4.372487	2673	No	NA	3	0	1	Low-quality	Genome-fragment	1.05	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-3_NODE_26591_length_2696_cov_4.221886	2546	No	NA	4	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-3_NODE_27859_length_2615_cov_4.953125	2614	No	NA	3	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-3_NODE_30359_length_2476_cov_17.099959	2385	No	NA	2	0	1	Low-quality	Genome-fragment	0.78	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+PPF0-3_NODE_39454_length_2095_cov_26.134314	2092	No	NA	3	0	0	Low-quality	Genome-fragment	1.04	AAI-based (medium-confidence)	0.0	1.0	no viral genes detected
+PPF0-3_NODE_44446_length_1943_cov_2.894068	1400	No	NA	2	0	1	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-3_NODE_59668_length_1622_cov_2.803446	1552	No	NA	2	0	2	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-3_NODE_63300_length_1564_cov_3.138502	1563	No	NA	3	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+PPF0-3_NODE_65950_length_1525_cov_2.768027	1243	No	NA	2	0	1	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
